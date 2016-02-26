@@ -1,0 +1,7 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetRight="112dp">
+    <shape>
+        <solid android:color="#f4ed35" />
+        <size android:width="1dp" android:height="1dp" />
+    </shape>
+</inset><!-- From: file:/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/src/main/res/drawable/padded_divider.xml -->

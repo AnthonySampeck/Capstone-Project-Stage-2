@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-27161c989e6ec7eed8e8a577eabc75a9abb3fd5e.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-01e5a9607610013fa49df2f8223cfdb3d7f6f88b.jar" />
+    </item>
+    <item
+        jar="/Users/drew/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/glide-3.6.0-2b5429bfd7b5385d34813cc0197b283ee4b9b96a.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-14c87765f11134b44a8b0892e36d86a832de8f90.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/volley-060d5824feffc9ea5471aedddb4676603cdc1bfc.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-c50208008d8445b6ebad0a57f9049ad81504ced7.jar" />
+    </item>
+    <item
+        jar="/Users/drew/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/okhttp-1.1.0-9e93e77fb88bbfcac818307e3b2fb53a91783574.jar" />
+    </item>
+    <item
+        jar="/Users/drew/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.3/92568d7167ce1bf9eb1fd815b022d5a2c113547a/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/jsoup-1.7.3-ce930aa4e1ac1dd33b30cf219b61ee0144c5a639.jar" />
+    </item>
+    <item
+        jar="/Users/drew/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/support-annotations-23.1.0-3c2e02d3c5638404f2f8536a6c9961d52e81fa64.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-f7286135755b957d618d0f225d942e971898bc3e.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/internal_impl-23.1.0-735e85d2a7ddbbdb6bf3ccfa45fb876972c2327f.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/internal_impl-23.0.0-d27828a32c53ca4228251f100ecc5953d9547358.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-f1573b172858ec5974c7549ca60212ec471947d9.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-fd636c52c08c84a1c8cee7a669187b871dcb7fa2.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-898b14ced731da5d56eab4af6eef0242923bda7c.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-ffb9981c719be0fae7a59fc26b8044fecd91d890.jar" />
+    </item>
+    <item
+        jar="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/build/intermediates/pre-dexed/release/classes-6605e3c95f06dbddf5f6fa019c9ba4223fad0c6a.jar" />
+    </item>
+
+</items>

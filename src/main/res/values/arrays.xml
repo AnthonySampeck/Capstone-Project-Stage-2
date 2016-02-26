@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_sort_options">
+        <item>@string/pref_sort_label_action</item>
+        <item>@string/pref_sort_label_anime</item>
+        <item>@string/pref_sort_label_children</item>
+        <item>@string/pref_sort_label_classics</item>
+        <item>@string/pref_sort_label_comedies</item>
+        <item>@string/pref_sort_label_documentaries</item>
+        <item>@string/pref_sort_label_international</item>
+
+        <item>@string/pref_sort_label_music</item>
+        <item>@string/pref_sort_label_romantic</item>
+        <item>@string/pref_sort_label_scifi</item>
+        <item>@string/pref_sort_label_thriller</item>
+        <item>@string/pref_sort_label_tv</item>
+
+
+    </string-array>
+
+
+    <string-array name="pref_sort_values">
+        <item>@string/pref_sort_action</item>
+        <item>@string/pref_sort_anime</item>
+        <item>@string/pref_sort_children</item>
+        <item>@string/pref_sort_classics</item>
+        <item>@string/pref_sort_comedies</item>
+        <item>@string/pref_sort_documentaries</item>
+        <item>@string/pref_sort_international</item>
+
+        <item>@string/pref_sort_music</item>
+        <item>@string/pref_sort_romantic</item>
+        <item>@string/pref_sort_scifi</item>
+        <item>@string/pref_sort_thriller</item>
+        <item>@string/pref_sort_tv</item>
+
+
+        <item>@string/pref_sort_favorites</item>
+    </string-array>
+
+
+</resources>

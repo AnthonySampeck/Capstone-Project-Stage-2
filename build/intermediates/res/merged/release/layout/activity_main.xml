@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:divider="?android:attr/dividerHorizontal"
+    android:orientation="horizontal"
+    tools:context="com.example.newonnetflix.ui.ArticleListActivity">
+
+
+
+<fragment
+    android:id="@+id/fragment_article_list"
+    android:name="com.example.newonnetflix.ui.ArticleListFragment"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="2"
+    tools:layout="@layout/activity_article_list" />
+
+    </LinearLayout><!-- From: file:/Users/drew/AndroidStudioProjects/NewOnNetflixSubmit/src/main/res/layout/activity_main.xml -->
