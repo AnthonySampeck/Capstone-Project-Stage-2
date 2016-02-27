@@ -21,6 +21,22 @@ android {
         minSdkVersion 16
         targetSdkVersion 23
     }
+    
+    signingConfigs {
+        release {
+            storeFile file("keystore.jks")
+            storePassword "password"
+            keyAlias "udacity"
+            keyPassword "password"
+        }
+    }
+    buildTypes {
+        release {
+
+            signingConfig signingConfigs.release
+        }
+    }
+    
 }
 
 dependencies {
